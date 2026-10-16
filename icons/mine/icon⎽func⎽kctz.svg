@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.119" height="44" viewBox="0 0 44.119 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#97dbf4"/>
+      <stop offset="1" stop-color="#33b9eb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d9f4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_func_kctz" data-name="icon⎽func⎽kctz" transform="translate(-12484 454)">
+    <rect id="矩形_7685" data-name="矩形 7685" width="44" height="44" rx="8" transform="translate(12484 -454)" fill="url(#linear-gradient)"/>
+    <g id="组_7943" data-name="组 7943" transform="translate(13991.5 12090.125)">
+      <rect id="矩形_7551" data-name="矩形 7551" width="26" height="29.333" rx="4" transform="translate(-1500 -12538.084)" fill="url(#linear-gradient-2)"/>
+      <rect id="矩形_7555" data-name="矩形 7555" width="17.667" height="2" rx="0.75" transform="translate(-1495.833 -12532.199)" fill="#38baeb"/>
+      <rect id="矩形_10915" data-name="矩形 10915" width="10.667" height="2" rx="0.75" transform="translate(-1495.833 -12526.418)" fill="#38baeb"/>
+    </g>
+    <path id="路径_7356" data-name="路径 7356" d="M15.347,0a2,2,0,0,1,1.731,1L21.42,8.5a2,2,0,0,1,0,2L17.078,18a2,2,0,0,1-1.731,1H6.653a2,2,0,0,1-1.731-1L.58,10.5a2,2,0,0,1,0-2L4.922,1A2,2,0,0,1,6.653,0Z" transform="translate(12509.336 -439.026) rotate(30)" fill="#a3e6ff"/>
+    <path id="路径_7341" data-name="路径 7341" d="M17.4,21.413a1,1,0,0,1-.492-.129L8.567,16.577a1,1,0,1,1,.983-1.742L16.4,18.7V15.707a1,1,0,0,1,.494-.863l8.277-4.85a1,1,0,0,1,1.011,1.726L18.4,16.28v4.133a1,1,0,0,1-1,1Z" transform="translate(12496.348 -441.531)" fill="#fff"/>
+    <path id="路径_7342" data-name="路径 7342" d="M12.5,19.241a1,1,0,0,1-1-1V14.207a1,1,0,0,1,.465-.845l8.273-5.241a1,1,0,1,1,1.07,1.69L13.5,14.757v3.484A1,1,0,0,1,12.5,19.241Z" transform="translate(12496.727 -442.259)" fill="#fff"/>
+  </g>
+</svg>

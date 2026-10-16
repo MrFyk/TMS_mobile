@@ -1,0 +1,101 @@
+<!DOCTYPE html><html lang=""><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+        <title>智慧矿山・物流系统</title>
+
+        <script src="./public-path.js"></script>
+        <script type="text/javascript" src="https://lf-scm-cn.feishucdn.com/lark/op/h5-js-sdk-1.5.44.js"></script>
+        <!-- <script async src="https://lf-package-cn.feishucdn.com/obj/feishu-static/op/fe/devtools_frontend/remote-debug-0.0.1-alpha.6.js"></script> -->
+        <script type="text/javascript">
+            // H5 plus事件处理
+            function plusReady() {
+                // 设置系统状态栏背景为绿色
+                function onback() {
+                    window.parent.console.log('请使用页面内的返回按钮0022');
+                }
+                plus.key.addEventListener('backbutton', onback);
+            }
+            if (window.plus) {
+                plusReady();
+            } else {
+                document.addEventListener('plusready', plusReady, false);
+            }
+
+            (function () {
+                document.addEventListener('gesturestart', function (e) {
+                    e.preventDefault();
+                });
+                document.addEventListener('gesturechange', function (e) {
+                    e.preventDefault();
+                });
+                document.addEventListener('gestureend', function (e) {
+                    e.preventDefault();
+                });
+
+                window.addEventListener(
+                    'wheel',
+                    function (e) {
+                        if (e.ctrlKey) e.preventDefault();
+                    },
+                    { passive: false }
+                );
+
+                document.addEventListener('keydown', function (e) {
+                    if (!(e.ctrlKey || e.metaKey)) return;
+                    if (e.key === '+' || e.key === '=' || e.key === '-' || e.key === '0') {
+                        e.preventDefault();
+                    }
+                });
+            })();
+        </script>
+      <script crossorigin="">import('./js/index-BNXGRgOT.js').finally(() => {
+            
+    const qiankunLifeCycle = window.moudleQiankunAppLifeCycles && window.moudleQiankunAppLifeCycles['tms'];
+    if (qiankunLifeCycle) {
+      window.proxy.vitemount((props) => qiankunLifeCycle.mount(props));
+      window.proxy.viteunmount((props) => qiankunLifeCycle.unmount(props));
+      window.proxy.vitebootstrap(() => qiankunLifeCycle.bootstrap());
+      window.proxy.viteupdate((props) => qiankunLifeCycle.update(props));
+    }
+  
+          })</script>
+      <link rel="modulepreload" crossorigin="" href="./js/_plugin-vue_export-helper-DgLP3hnZ.js">
+      <link rel="stylesheet" crossorigin="" href="./css/vant-1kEKuK0C.css">
+      <link rel="stylesheet" crossorigin="" href="./css/vendor-KWfftTio.css">
+      <link rel="stylesheet" crossorigin="" href="./css/index-DVpRf5I2.css">
+    </head>
+    <body>
+        <noscript>
+            <strong>数据加载失败，请退出后登录后重新加载</strong>
+        </noscript>
+        <div id="app" class="mx_tms_backend" style="overflow: hidden"></div>
+        <!-- built files will be auto injected -->
+        <!-- <script src="//cdn.jsdelivr.net/npm/eruda"></script>
+        <script>
+            eruda.init();
+        </script> -->
+    
+
+<script>
+  const createDeffer = (hookName) => {
+    const d = new Promise((resolve, reject) => {
+      window.proxy && (window.proxy[`vite${hookName}`] = resolve)
+    })
+    return props => d.then(fn => fn(props));
+  }
+  const bootstrap = createDeffer('bootstrap');
+  const mount = createDeffer('mount');
+  const unmount = createDeffer('unmount');
+  const update = createDeffer('update');
+
+  ;(global => {
+    global.qiankunName = 'tms';
+    global['tms'] = {
+      bootstrap,
+      mount,
+      unmount,
+      update
+    };
+  })(window);
+</script></body></html>

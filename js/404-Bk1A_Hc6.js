@@ -1,0 +1,1 @@
+import{St as r,et as e}from"./naive-ui-mGnpCVex.js";import{t}from"./_plugin-vue_export-helper-DgLP3hnZ.js";var o=t({},[["render",function(t,o){return r(),e("div",null,"404 Not Found")}]]);export{o as default};

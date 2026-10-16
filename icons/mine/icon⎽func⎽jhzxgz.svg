@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#98b5f7"/>
+      <stop offset="1" stop-color="#2c65f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d9e8ff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_func_jhzxgz" data-name="icon⎽func⎽jhzxgz" transform="translate(-1433 -814)">
+    <rect id="矩形_7684" data-name="矩形 7684" width="44" height="44" rx="8" transform="translate(1433 814)" fill="url(#linear-gradient)"/>
+    <path id="联合_57" data-name="联合 57" d="M-5275.919,12793.046a1,1,0,0,1-1-1,1,1,0,0,1,1-1h3.92a3,3,0,0,0,3-3V12784a1,1,0,0,1,1-1,1,1,0,0,1,1,1v4.046a5.008,5.008,0,0,1-5,5Zm-18.079,0a5.008,5.008,0,0,1-5-5V12784a1,1,0,0,1,1-1,1,1,0,0,1,1,1v4.046a3,3,0,0,0,3,3h3.917a1,1,0,0,1,1,1,1,1,0,0,1-1,1Zm0-16.047a11,11,0,0,1,11-11,11,11,0,0,1,11,11,11,11,0,0,1-11,11A11,11,0,0,1-5294,12777Zm2,0a9.011,9.011,0,0,0,9,9,9.01,9.01,0,0,0,9-9,9.01,9.01,0,0,0-9-9A9.011,9.011,0,0,0-5292,12777Zm5,0a4,4,0,0,1,4-4,4,4,0,0,1,4,4,4,4,0,0,1-4,4A4,4,0,0,1-5287,12777Zm18-6.954V12766a3,3,0,0,0-3-3h-3.92a1,1,0,0,1-1-1,1,1,0,0,1,1-1h3.92a5.005,5.005,0,0,1,5,5v4.045a1,1,0,0,1-1,1A1,1,0,0,1-5269,12770.045Zm-30,0V12766a5.005,5.005,0,0,1,5-5h3.917a1,1,0,0,1,1,1,1,1,0,0,1-1,1H-5294a3,3,0,0,0-3,3v4.045a1,1,0,0,1-1,1A1,1,0,0,1-5299,12770.045Z" transform="translate(6738 -11941)" fill="url(#linear-gradient-2)"/>
+    <rect id="矩形_10926" data-name="矩形 10926" width="7.733" height="2" rx="0.75" transform="translate(1456 822.267) rotate(90)" fill="#2c65f2"/>
+    <rect id="矩形_10927" data-name="矩形 10927" width="7.733" height="2" rx="0.75" transform="translate(1456 841.999) rotate(90)" fill="#2c65f2"/>
+    <rect id="矩形_10928" data-name="矩形 10928" width="7.733" height="2" rx="0.75" transform="translate(1468.732 837) rotate(180)" fill="#2c65f2"/>
+    <rect id="矩形_10929" data-name="矩形 10929" width="7.733" height="2" rx="0.75" transform="translate(1449.001 837) rotate(180)" fill="#2c65f2"/>
+  </g>
+</svg>

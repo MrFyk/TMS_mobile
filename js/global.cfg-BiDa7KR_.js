@@ -1,0 +1,1 @@
+var o="/home/index",e={code:"home",path:o,name:"工作台",icon:"icon⎽func⎽board",visible:!0,meta:{title:"工作台",nologin:!0,layout:"main-layout",code:"home"}};export{e as n,o as t};

@@ -1,0 +1,1 @@
+var t=t=>`${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,"0")}-${String(t.getDate()).padStart(2,"0")}`,e=()=>{const e=new Date;return[t(new Date(e.getFullYear(),e.getMonth()-1,26)),t(e)]};export{e as t};

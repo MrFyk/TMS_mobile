@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#97dbf4"/>
+      <stop offset="1" stop-color="#33b9eb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d8f4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_func_cjly" data-name="icon⎽func⎽cjly" transform="translate(-1433 -814)">
+    <rect id="矩形_10298" data-name="矩形 10298" width="44" height="44" rx="8" transform="translate(1433 814)" fill="url(#linear-gradient)"/>
+    <g id="组_9592" data-name="组 9592" transform="translate(1438.682 820.534)">
+      <rect id="矩形_10910" data-name="矩形 10910" width="11.994" height="9.027" rx="2" transform="translate(11.653 6.935)" fill="#38baeb"/>
+      <path id="矩形_10909" data-name="矩形 10909" d="M1.5,0H2.951a1.5,1.5,0,0,1,1.5,1.5V12.9a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1.5A1.5,1.5,0,0,1,1.5,0Z" transform="translate(10.294 1)" fill="url(#linear-gradient-2)"/>
+      <path id="路径_7323" data-name="路径 7323" d="M25.856,14.829V9.484A1.484,1.484,0,0,0,24.373,8H5.085A1.484,1.484,0,0,0,3.6,9.484V17.16" transform="translate(1.5 3.87)" fill="#a3e6ff"/>
+      <path id="路径_7324" data-name="路径 7324" d="M31.313,12.649a.742.742,0,0,1,.8.9l-2.26,10.171a.741.741,0,0,1-.723.581H3.894a.742.742,0,0,1-.693-.475L.55,16.93a.743.743,0,0,1,.613-1Z" transform="translate(0 5.632)" fill="url(#linear-gradient-2)"/>
+      <path id="椭圆_647" data-name="椭圆 647" d="M2.37-1A3.37,3.37,0,1,1-1,2.37,3.374,3.374,0,0,1,2.37-1Zm0,4.74A1.37,1.37,0,1,0,1,2.37,1.371,1.371,0,0,0,2.37,3.74Z" transform="translate(21.586 22.225)" fill="#38baeb"/>
+    </g>
+  </g>
+</svg>

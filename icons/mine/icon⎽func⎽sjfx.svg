@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9f9ce8"/>
+      <stop offset="1" stop-color="#504db1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cbc9ff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_func_sjfx" data-name="icon⎽func⎽sjfx" transform="translate(-1433 -813.999)">
+    <rect id="矩形_10333" data-name="矩形 10333" width="44" height="44" rx="8" transform="translate(1433 813.999)" fill="url(#linear-gradient)"/>
+    <rect id="矩形_10918" data-name="矩形 10918" width="6.667" height="2" rx="0.75" transform="translate(1463.457 845.02) rotate(45)" fill="#b0b3fc"/>
+    <path id="减去_6" data-name="减去 6" d="M-5402,12639a14.968,14.968,0,0,1-12.562-6.8,1.48,1.48,0,0,0,.181.012,1.44,1.44,0,0,0,1.021-.419l5.247-5.142,4.812,4.85a1.458,1.458,0,0,0,1.034.435,1.483,1.483,0,0,0,1.034-.425l6.407-6.369a1.46,1.46,0,0,0,.43-1.034,1.45,1.45,0,0,0-.427-1.034,1.446,1.446,0,0,0-1.035-.432,1.451,1.451,0,0,0-1.03.425l-5.367,5.339-4.809-4.844a1.443,1.443,0,0,0-1.036-.433,1.457,1.457,0,0,0-1.022.417l-6.284,6.16a1.451,1.451,0,0,0-.294.412,14.884,14.884,0,0,1-1.3-6.119,14.9,14.9,0,0,1,4.395-10.607A14.908,14.908,0,0,1-5402,12609a14.907,14.907,0,0,1,10.607,4.393A14.905,14.905,0,0,1-5387,12624a14.905,14.905,0,0,1-4.393,10.607A14.907,14.907,0,0,1-5402,12639Z" transform="translate(6856 -11789)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

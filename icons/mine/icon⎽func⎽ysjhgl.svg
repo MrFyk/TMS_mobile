@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#98b5f7"/>
+      <stop offset="1" stop-color="#2c65f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d8e7ff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_func_ysjhgl" data-name="icon⎽func⎽ysjhgl" transform="translate(-12484.194 454)">
+    <rect id="矩形_10949" data-name="矩形 10949" width="44" height="44" rx="8" transform="translate(12484.194 -454)" fill="url(#linear-gradient)"/>
+    <g id="组_7943" data-name="组 7943" transform="translate(13991.5 12090.125)">
+      <rect id="矩形_7551" data-name="矩形 7551" width="26" height="29.333" rx="4" transform="translate(-1500 -12538.084)" fill="url(#linear-gradient-2)"/>
+      <rect id="矩形_7555" data-name="矩形 7555" width="17.667" height="2" rx="0.75" transform="translate(-1495.833 -12532.199)" fill="#2c65f2"/>
+      <rect id="矩形_10915" data-name="矩形 10915" width="10.667" height="2" rx="0.75" transform="translate(-1495.833 -12526.418)" fill="#2c65f2"/>
+    </g>
+    <g id="组_9591" data-name="组 9591" transform="translate(12498.287 -433.292)">
+      <path id="联合_56" data-name="联合 56" d="M15.59,2.36a1.229,1.229,0,0,0-.378-.059H8.522a2.983,2.983,0,0,0-5.807,0H1.249A1.257,1.257,0,0,0,0,3.567V17.683a1.257,1.257,0,0,0,1.249,1.266H15.212a1.257,1.257,0,0,0,1.249-1.266V11.3a.784.784,0,0,0,.779.789h3.7a.781.781,0,0,0,.622-.313L24.82,7.407a.806.806,0,0,0,.157-.476V3.09A.784.784,0,0,0,24.2,2.3H21.411a2.983,2.983,0,0,0-5.821.059Z" transform="translate(23.977 18.948) rotate(180)" fill="#cdf"/>
+      <rect id="矩形_10924" data-name="矩形 10924" width="5.667" height="2" rx="0.75" transform="translate(16.822 3.959) rotate(90)" fill="#fff"/>
+      <rect id="矩形_10925" data-name="矩形 10925" width="5.667" height="2" rx="0.75" transform="translate(20.489 9.625) rotate(180)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
