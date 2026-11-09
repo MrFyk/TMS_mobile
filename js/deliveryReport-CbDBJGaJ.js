@@ -1,0 +1,1 @@
+import{$t as a,Ct as s,kt as t,qt as r,xn as m}from"./naive-ui-CYeS9vyF.js";import{p as o}from"./comm-CGuko1qJ.js";import{t as e}from"./app-SO1VUfkn.js";import{t as p}from"./web-Sj-KyhVy.js";var i=t({__name:"index",setup(t){const i=o();return(t,o)=>(r(),s(a(m(i)?e:p)))}});export{i as default};

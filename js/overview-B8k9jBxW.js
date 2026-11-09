@@ -1,1 +1,0 @@
-import{Ct as a,kt as t,qt as s}from"./naive-ui-CYeS9vyF.js";import{t as e}from"./web-BcSmNz-4.js";var r=t({__name:"index",setup:t=>(t,r)=>(s(),a(e))});export{r as default};
