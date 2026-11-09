@@ -1,0 +1,1 @@
+var l=[{label:"新增",value:"INSERT"},{label:"修改",value:"UPDATE"},{label:"删除",value:"DELETE"},{label:"授权",value:"GRANT"},{label:"导出",value:"EXPORT"},{label:"下载",value:"DOWNLOAD"},{label:"导入",value:"IMPORT"},{label:"强退",value:"FORCE"},{label:"清空数据",value:"CLEAN"}];export{l as t};

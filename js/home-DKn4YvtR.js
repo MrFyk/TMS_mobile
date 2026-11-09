@@ -1,0 +1,1 @@
+import{S as a,x as s}from"./comm-8wZDx89D.js";function o(o){return a({url:`${s}/dashboard/countTodayDataSummary`,method:"POST",params:o,customParams:{isLoading:!1,showSuccessToast:!1}})}function t(o={current:1,size:5,searchCount:!1}){return a({url:`${s}/recentlyDynamic/page`,method:"POST",data:o,customParams:{isLoading:!1,showSuccessToast:!1}})}export{o as n,t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-DwynqlJ6.js";import{Y as t}from"./vendor-C1vSaDAn.js";var r=e(t(),1),o=e=>{const t=new r.default.default({encodingType:"aes",encryptionSecret:e,isCompression:!1,storage:sessionStorage});return{setItem(e,r){t.set(e,r)},getItem:e=>t.get(e),removeItem(e){t.remove(e)}}};export{o as t};

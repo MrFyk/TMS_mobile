@@ -1,0 +1,1 @@
+import{Tt as r,qt as t}from"./naive-ui-CYeS9vyF.js";import{t as e}from"./_plugin-vue_export-helper-DgLP3hnZ.js";var o=e({},[["render",function(e,o){return t(),r("div",null,"404 Not Found")}]]);export{o as default};

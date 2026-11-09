@@ -1,0 +1,1 @@
+var o="/home/index",e={code:"home",path:o,name:"物流数据大屏",icon:"icon⎽func⎽board",visible:!0,meta:{title:"物流数据大屏",nologin:!0,layout:"main-layout",code:"home"},children:[]};export{e as n,o as t};
